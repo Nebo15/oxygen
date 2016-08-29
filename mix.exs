@@ -31,10 +31,10 @@ defmodule Oxygen.Mixfile do
 
   defp package do
     [
-     name: :rbmq,
+     name: :oxygen,
      files: ["lib", "mix.exs", "README.md", "LICENSE.md"],
      maintainers: ["Pavel Vesnin"],
      licenses: ["MIT"],
-     links: %{"GitHub" => "https://github.com/Nebo15/rbmq"}]
+     links: %{"GitHub" => "https://github.com/Nebo15/oxygen"}]
   end
 end
